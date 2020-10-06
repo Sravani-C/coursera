@@ -1,0 +1,17 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+h1 {
+  /* this property changes the color of the text
+  to the specified hexadecimalcolor code. */
+  color: #00587a;
+  /* text-align property aligns the text in the required position.
+  Here, it is aligned to the center of the screen. */
+  text-align: center;
+  /* this property is used to add decoration to the text. The 'underline'
+  value underlines the required text. */
+  text-decoration: underline;
+  /* this property changes the font-size of the text. Here, I have mentioned
+  the font-size to be 175% of the original font-size. */
+  font-size: 1.75rem;
+}
